@@ -47,7 +47,7 @@ qmk flash -kb ferris/sweep -km mine -e CONVERT_TO=elite_pi -bl uf2-split-right
 - **Layer 5:** Function keys (left ring finger hold) - F1-F12 in numpad layout
 - **Layer 6:** Numbers (right ring finger hold) - 0-9 in numpad-like layout with math operators
 - **Layer 7:** Always accessible (right thumb hold) - Esc, Tab, Enter, Del, `!`, `?`, layer switching (DF0/DF1/DF9)
-- **Layer 8:** German characters (left thumb hold) - umlauts (ä, ü, ö), €, ß
+- **Layer 8:** German characters (left thumb hold) - ä (A), ü (U), ö (O), € (E), ß (S)
 - **Layer 9:** Gaming layer - QWERTY shifted left by one key for easier WASD gaming
 
 ## Changes from Default
