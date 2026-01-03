@@ -2,6 +2,8 @@
 
 Based on [Pierre Chevalier's default layout](https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/ferris/keymaps/default), adapted for German host keyboard layout with additional layers for umlauts and gaming.
 
+![layout](layout.png)
+
 ## Quick Guide
 
 **Setup:**
