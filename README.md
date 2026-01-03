@@ -1,8 +1,6 @@
-# Personal German Ferris Sweep Keyboard Layout
+# German Ferris Sweep Keyboard Layout
 
 Based on [Pierre Chevalier's default layout](https://github.com/qmk/qmk_firmware/tree/user-keymaps-still-present/keyboards/ferris/keymaps/default), adapted for German host keyboard layout with additional layers for umlauts and gaming.
-
-![layout](layout.svg)
 
 ## Quick Guide
 
@@ -11,7 +9,7 @@ Based on [Pierre Chevalier's default layout](https://github.com/qmk/qmk_firmware
 # Install QMK CLI
 uv tool install qmk
 
-# Setup QMK (follow prompts, point to this repo)
+# Setup QMK
 qmk setup
 
 # Verify installation
@@ -31,11 +29,11 @@ qmk flash -kb ferris/sweep -km mine -e CONVERT_TO=elite_pi -bl uf2-split-right
 - Bootmagic: Disconnect TRRS cable, hold Q (left) or P (right) while plugging USB into that half
 - Physical: Double-tap reset button on Elite-Pi controller
 
-**Note:** After initial setup, only flash the left half (keymap syncs to right automatically)
+**Note:** After initial setup, either side can be flashed using the main side (keymap syncs automatically)
 
 ## Layers (TLDR)
 
-- **Layer 0:** Base QWERTY layer, copy/paste on outer thumbs
+- **Layer 0:** Base QWERTZ layer, copy/paste on outer thumbs
 - **Layer 1:** Mouse (left middle finger hold) - mouse movement, clicks, scroll
 - **Layer 2:** Navigation (right middle finger hold) - arrows, page up/down, home/end
 - **Layer 3:** Right symbols (left index hold) - `|`, `~`, `@`, `$`, etc.
