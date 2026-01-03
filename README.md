@@ -16,6 +16,10 @@ qmk setup
 
 # Verify installation
 qmk doctor
+
+# Clone custom keymap
+git clone https://github.com/MDornacher/SweepGermanGaming.git \
+    qmk_firmware/keyboards/ferris/keymaps/mine
 ```
 
 Full guide: https://docs.qmk.fm/#/newbs
