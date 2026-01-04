@@ -32,7 +32,7 @@
     ],
     [
       "KC_TRNS",        "KC_GT",          "KC_NUBS",         "LSFT(KC_NUBS)",  "KC_LT",           "KC_TRNS",     "KC_TRNS",     "KC_TRNS",         "KC_TRNS",        "KC_TRNS",
-      "RALT(KC_7)",     "RALT(KC_0)",     "KC_ASTR",         "KC_LPRN",        "RALT(KC_Q)",      "KC_TRNS",     "KC_NO",       "LSFT(KC_0)",      "KC_PPLS",        "KC_PERC",
+      "RALT(KC_7)",     "RALT(KC_0)",     "KC_ASTR",         "KC_LPRN",        "RALT(KC_Q)",      "KC_TRNS",     "KC_NO",       "LSFT(KC_0)",      "KC_RBRC",        "KC_PERC",
       "LSFT(KC_MINS)",  "LSFT(KC_1)",     "RALT(KC_8)",      "RALT(KC_9)",     "KC_TRNS",         "KC_TRNS",     "KC_TRNS",     "KC_TRNS",         "KC_TRNS",        "KC_TRNS",
       "KC_VOLD",        "KC_TRNS",        "KC_TRNS",         "KC_VOLU"
     ],
